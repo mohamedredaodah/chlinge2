@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&family=Poppins:wght@300;400;500;600;700&family=Saira:wght@700&display=swap');
+    *{
+        padding: 0;
+        margin: 0;
+    }
+    body{
+                background-color:hsl(216, 50%, 16%) ;
+    }
+    .content1{
+        
+        background-color : hsl(217, 54%, 11%); 
+        width: 370px;
+        height: 660px;
+        display: block;
+        margin: auto;
+        border-radius: 50px;
+        margin-top: 4rem;
+    }
+    .content2{
+        background-color:hsl(215, 32%, 27%);
+        height: 500px;
+        width: 350px;
+        display: block;
+        margin: auto;
+        border-radius: 20px;
+        margin-top: 15px;
+        margin-bottom: 5px;
+        padding-top: 20px;
+        margin-bottom: 20px;
+    }
+    .content{
+        
+        background-color:hsl(216, 50%, 16%);
+        height: 560px;
+        width: 340px;
+        display: block;
+        margin: auto;
+        border-radius: 20px;
+        margin-top: 15px;
+        margin-bottom: 5px;
+        padding-top: 20px;
+        margin-bottom: 20px;
+        
+    }
+    img{
+        width: 290px;
+        height: 300px;
+        border-radius: 5px;
+        display: block;
+        margin: auto;
+    }
+    h1,p,h2{
+        color:hsl(0, 0%, 100%);
+        font-family: 'Outfit', sans-serif;
+    }
+    .h2{
+        color:aqua;
+        font-size: 15px;
+        margin-left: 20px;
+        /* background-color: blue; */
+    }
+    .car{
+        margin-top: 30px;
+        /* background-color: brown; */
+        width: 10px;
+    }
+    p{
+        font-size: 18px;
+        
+    }
+    .p{
+    
+        margin-top: 20px;
+        color: rgb(135, 143, 150);
+}
+.p2{
+    color: rgb(135, 143, 150);
+}
+
+    h1{
+        padding-top: 20px;
+        font-family: 'Outfit', sans-serif;
+        font-size: 25px;
+    }
+    .div2{
+        display: flex;
+    }
+    .h22{
+        margin-left: 170px;
+        font-size: 15px;
+    }
+    .div3{
+        display: flex;
+        margin-right: 100px;
+    }
+    .img2{
+        width: 30px;
+        height: 30px;
+        margin-top: 20px;
+        
+    }
+    .creation{
+        font-size: 15px;
+        margin-top: 25px;
+        
+    }
+    hr{
+        width: 270px;
+        display: block;
+        margin: auto;
+        margin-top: 20px;
+        color: rgb(135, 143, 150);
+        border-radius: 20%;
+        background-color:rgb(135, 143, 150) ;
+    }
+    .buty{
+        
+        display: inline;
+        
+    }
+    .buty3{
+        margin-left: 20px;
+    }
+    .buty2{
+        margin-top: -20px;
+    }
+    .boty{
+        margin-left: 80px;
+        margin-top: 150px;
+        display: inline;
+    }
+    .boty2{
+        margin-left: 100px;
+        margin-top: -22px;
+    }
+    .boty3{
+        margin-top: 30px;
+        margin-left: 30px;
+    }
+    h2{
+        font-size: 16px;
+    }
+    .uo1{
+        margin-left: 30px;
+    }
+    .uo2{
+        margin-left: 30px;
+    }
+    .done{
+        color: rgb(135, 143, 150);
+    }
+    .end1{
+        color:  rgb(135, 143, 150);
+    }
+    /* mobile  */
